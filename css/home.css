@@ -1,0 +1,61 @@
+/* About Me */
+
+.about {
+    padding: 3% 15% 3%;
+}
+
+
+/* Experience */
+
+.job {
+    background-color: #D6EAFD;
+    border-radius: 16px;
+    margin: 3% 5%;
+    padding: 3% 10%;
+}
+
+.job-title {
+    margin: 25px 0 50px;
+}
+
+.skill-icon {
+    height: 100px;
+    margin: 0 50px 0 50px;
+    width: 100px;
+}
+
+.left {
+    text-align: left;
+}
+
+.left img {
+    float: left;
+}
+
+.left p {
+    margin: 0 auto 50px 0;
+    max-width: 700px;
+}
+
+.right {
+    text-align: right;
+}
+
+.right img {
+    float: right;
+}
+
+.right p {
+    margin: 0 0 50px auto;
+    max-width: 700px;
+}
+
+.skill p {
+    overflow: hidden;
+}
+
+.course {
+    color: #8f8f8f;
+    font-size: 1.25rem;
+    font-weight: 400;
+}

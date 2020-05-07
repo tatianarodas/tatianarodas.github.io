@@ -1,0 +1,38 @@
+.steel-bridge,
+.cad {
+    margin: 3% 10%;
+}
+
+.carousel {
+    background-color: #D6EAFD;
+    border-radius: 16px;
+    padding: 3% 10%;
+}
+
+.carousel-item img {
+    height: 600px;
+    width: auto;
+}
+
+.carousel-item p {
+    margin-top: 25px;
+}
+
+.carousel-control-next,
+.carousel-control-prev {
+    filter: invert(100%);
+}
+
+.carousel-indicators {
+    bottom: -10px;
+}
+
+.carousel-indicators li {
+    background-color: #999;
+    background-color: rgba(70, 70, 70, 0.25);
+    height: 4px;
+}
+
+.carousel-indicators .active {
+    background-color: #444;
+}
