@@ -20,29 +20,28 @@
 
 .skill-icon {
     height: 100px;
-    margin: 0 50px 0 50px;
+    margin: 0 50px 5px 50px;
     width: 100px;
 }
 
-.left {
-    text-align: left;
-}
-
-.left img {
-    float: left;
+@media screen and (min-width: 768px) {
+    .left {
+        text-align: left;
+    }
+    .left img {
+        float: left;
+    }
+    .right {
+        text-align: right;
+    }
+    .right img {
+        float: right;
+    }
 }
 
 .left p {
     margin: 0 auto 50px 0;
     max-width: 700px;
-}
-
-.right {
-    text-align: right;
-}
-
-.right img {
-    float: right;
 }
 
 .right p {

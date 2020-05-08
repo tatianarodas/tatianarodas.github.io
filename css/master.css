@@ -1,3 +1,9 @@
+@media screen and (max-width: 600px) {
+    html {
+        font-size: 0.6rem;
+    }
+}
+
 body {
     text-align: center;
 }
@@ -15,8 +21,19 @@ body {
 
 .profile-pic {
     border-radius: 100%;
-    height: 75px;
-    width: 75px;
+    height: 40px;
+}
+
+@media screen and (min-width: 426px) {
+    .profile-pic {
+        height: 60px;
+    }
+}
+
+@media screen and (min-width: 769px) {
+    .profile-pic {
+        height: 75px;
+    }
 }
 
 .page-title {
