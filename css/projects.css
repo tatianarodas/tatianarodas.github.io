@@ -2,7 +2,14 @@
 .cad {
     background-color: #D6EAFD;
     margin: 3% 10%;
-    padding: 3% 12%;
+}
+
+.steel-bridge h1 {
+    padding: 3% 12% 0;
+}
+
+.steel-bridge p {
+    padding: 0 12%;
 }
 
 .carousel {
@@ -24,7 +31,7 @@
 }
 
 .carousel-indicators {
-    bottom: -25px;
+    bottom: -10px;
 }
 
 .carousel-indicators li {
