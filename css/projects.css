@@ -1,14 +1,13 @@
-.steel-bridge,
-.cad {
+.project {
     background-color: #D6EAFD;
     margin: 3% 10%;
 }
 
-.steel-bridge h1 {
+.project h1 {
     padding: 3% 12% 0;
 }
 
-.steel-bridge p {
+.project p {
     padding: 0 12%;
 }
 
